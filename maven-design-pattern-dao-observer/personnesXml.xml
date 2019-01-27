@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<personnes>
+	<personne id="1">
+		<prenom>Martin</prenom>
+		<nom>Marshall</nom>
+		<poids>60</poids>
+		<taille>150</taille>
+		<rue>rue de Nantes</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="2">
+		<prenom>Claire</prenom>
+		<nom>Chazal</nom>
+		<poids>65</poids>
+		<taille>155</taille>
+		<rue>rue de Rennes</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="3">
+		<prenom>Jacques</prenom>
+		<nom>Dupont</nom>
+		<poids>90</poids>
+		<taille>180</taille>
+		<rue>rue des Anges</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="4">
+		<prenom>Celine</prenom>
+		<nom>Dia</nom>
+		<poids>66</poids>
+		<taille>166</taille>
+		<rue>rue Diderot</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="5">
+		<prenom>Remy</prenom>
+		<nom>Cheval</nom>
+		<poids>88</poids>
+		<taille>200</taille>
+		<rue>rue du paradis</rue>
+		<ville>Nantes</ville>
+		<codePostal>44000</codePostal>
+	</personne>
+	<personne id="6">
+		<prenom>Nicolas</prenom>
+		<nom>Dutrou</nom>
+		<poids>40</poids>
+		<taille>150</taille>
+		<rue>rue Appert</rue>
+		<ville>Nantes</ville>
+		<codePostal>44000</codePostal>
+	</personne>
+	<personne id="7">
+		<prenom>Marie</prenom>
+		<nom>Claire</nom>
+		<poids>92</poids>
+		<taille>188</taille>
+		<rue>rue du paradis</rue>
+		<ville>Rouen</ville>
+		<codePostal>76000</codePostal>
+	</personne>
+	<personne id="8">
+		<prenom>Nathalie</prenom>
+		<nom>Sage</nom>
+		<poids>75</poids>
+		<taille>175</taille>
+		<rue>rue Appert</rue>
+		<ville>Rouen</ville>
+		<codePostal>76000</codePostal>
+	</personne>
+	<personne id="9">
+		<prenom>Jean</prenom>
+		<nom>Dujardin</nom>
+		<poids>56</poids>
+		<taille>166</taille>
+		<rue>rue des sorciers</rue>
+		<ville>Havre</ville>
+		<codePostal>76800</codePostal>
+	</personne>
+	<personne id="10">
+		<prenom>Michel</prenom>
+		<nom>Leclerc</nom>
+		<poids>100</poids>
+		<taille>202</taille>
+		<rue>rue du bonneur</rue>
+		<ville>Havre</ville>
+		<codePostal>76800</codePostal>
+	</personne>
+	<personne id="11">
+		<prenom>Julien</prenom>
+		<nom>Marshall</nom>
+		<poids>65</poids>
+		<taille>144</taille>
+		<rue>rue de Nantes</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="12">
+		<prenom>Julien</prenom>
+		<nom>Claire</nom>
+		<poids>85</poids>
+		<taille>169</taille>
+		<rue>rue du Paradis</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="13">
+		<prenom>Jacques</prenom>
+		<nom>Dupont</nom>
+		<poids>87</poids>
+		<taille>172</taille>
+		<rue>rue des Passeurs</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="14">
+		<prenom>Charles</prenom>
+		<nom>Hallyday</nom>
+		<poids>69</poids>
+		<taille>133</taille>
+		<rue>rue des Feugrais</rue>
+		<ville>Rouen</ville>
+		<codePostal>76000</codePostal>
+	</personne>
+	<personne id="15">
+		<prenom>Serge</prenom>
+		<nom>Lama</nom>
+		<poids>78</poids>
+		<taille>174</taille>
+		<rue>rue des Heureux</rue>
+		<ville>Nantes</ville>
+		<codePostal>44000</codePostal>
+	</personne>
+	<personne id="16">
+		<prenom>Vincent</prenom>
+		<nom>Thomas</nom>
+		<poids>35</poids>
+		<taille>169</taille>
+		<rue>rue de Paris</rue>
+		<ville>Rennes</ville>
+		<codePostal>35000</codePostal>
+	</personne>
+	<personne id="17">
+		<prenom>Eric</prenom>
+		<nom>Dummat</nom>
+		<poids>56</poids>
+		<taille>155</taille>
+		<rue>rue de Versaille</rue>
+		<ville>Paris</ville>
+		<codePostal>75000</codePostal>
+	</personne>
+	<personne id="18">
+		<prenom>Nicolas</prenom>
+		<nom>Samuel</nom>
+		<poids>49</poids>
+		<taille>171</taille>
+		<rue>rue de Saint Louis</rue>
+		<ville>Laval</ville>
+		<codePostal>53000</codePostal>
+	</personne>
+	<personne id="19">
+		<prenom>Remy</prenom>
+		<nom>Guerry</nom>
+		<poids>54</poids>
+		<taille>157</taille>
+		<rue>rue des Sages</rue>
+		<ville>Lyon</ville>
+		<codePostal>69000</codePostal>
+	</personne>
+	<personne id="20">
+		<prenom>Nicolas</prenom>
+		<nom>Drapeau</nom>
+		<poids>63</poids>
+		<taille>145</taille>
+		<rue>rue Mitterrand</rue>
+		<ville>Limoges</ville>
+		<codePostal>87000</codePostal>
+	</personne>
+</personnes>
